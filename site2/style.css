@@ -1,0 +1,19 @@
+.div1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px solid black;
+    width: 350px;
+}
+.text {
+    text-align: center;
+}
+.heh {
+    width: 175px;  
+}
+.rir {
+    display: flex;
+}
+img {
+    width: 100%;
+}
